@@ -1,0 +1,52 @@
+c:\users\dell\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\DELL\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\DELL\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\DELL\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\DELL\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\DELL\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\DELL\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\DELL\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\DELL\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\DELL\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmSplash.resources
+C:\Users\DELL\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmAcerdaDe.resources
+C:\Users\DELL\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmLogin.resources
+C:\Users\Hogar\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Hogar\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Hogar\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Hogar\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Hogar\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Hogar\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Hogar\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Hogar\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmAcerdaDe.resources
+C:\Users\Hogar\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmLogin.resources
+C:\Users\Hogar\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmSplash.resources
+C:\Users\Hogar\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Hogar\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\a2193620027\Documents\Tercer semestre\Programación avanzada\Proyecto Final\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\a2193620027\Documents\Tercer semestre\Programación avanzada\Proyecto Final\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\a2193620027\Documents\Tercer semestre\Programación avanzada\Proyecto Final\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\a2193620027\Documents\Tercer semestre\Programación avanzada\Proyecto Final\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+C:\Users\a2193620027\Documents\Tercer semestre\Programación avanzada\Proyecto Final\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\a2193620027\Documents\Tercer semestre\Programación avanzada\Proyecto Final\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmAcerdaDe.resources
+C:\Users\a2193620027\Documents\Tercer semestre\Programación avanzada\Proyecto Final\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmLogin.resources
+C:\Users\a2193620027\Documents\Tercer semestre\Programación avanzada\Proyecto Final\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmSplash.resources
+C:\Users\a2193620027\Documents\Tercer semestre\Programación avanzada\Proyecto Final\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\a2193620027\Documents\Tercer semestre\Programación avanzada\Proyecto Final\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\a2193620027\Documents\Tercer semestre\Programación avanzada\Proyecto Final\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\a2193620027\Documents\Tercer semestre\Programación avanzada\Proyecto Final\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\a2193620027\Documents\Tercer semestre\Programación avanzada\Proyecto Final\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\a2193620027\Documents\Tercer semestre\Programación avanzada\Proyecto Final\Despensas\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\a2193620027\Documents\Tercer semestre\Programación avanzada\Proyecto Final\Despensas\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\a2193620027\Documents\Tercer semestre\Programación avanzada\Proyecto Final\Despensas\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\a2193620027\Documents\Tercer semestre\Programación avanzada\Proyecto Final\Despensas\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+C:\Users\a2193620027\Documents\Tercer semestre\Programación avanzada\Proyecto Final\Despensas\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\a2193620027\Documents\Tercer semestre\Programación avanzada\Proyecto Final\Despensas\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmAcerdaDe.resources
+C:\Users\a2193620027\Documents\Tercer semestre\Programación avanzada\Proyecto Final\Despensas\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmLogin.resources
+C:\Users\a2193620027\Documents\Tercer semestre\Programación avanzada\Proyecto Final\Despensas\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmSplash.resources
+C:\Users\a2193620027\Documents\Tercer semestre\Programación avanzada\Proyecto Final\Despensas\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\a2193620027\Documents\Tercer semestre\Programación avanzada\Proyecto Final\Despensas\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\a2193620027\Documents\Tercer semestre\Programación avanzada\Proyecto Final\Despensas\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\a2193620027\Documents\Tercer semestre\Programación avanzada\Proyecto Final\Despensas\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\a2193620027\Documents\Tercer semestre\Programación avanzada\Proyecto Final\Despensas\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\a2193620027\Documents\Tercer semestre\Programación avanzada\Proyecto Final\Despensas\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Registros.resources
+C:\Users\a2193620027\Documents\Tercer semestre\Programación avanzada\Proyecto Final\Despensas\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Solicitar.resources
